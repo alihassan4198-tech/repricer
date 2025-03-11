@@ -55,6 +55,7 @@ async function scrapeAmazon(product, zipCode) {
     try {
         const amazonURL = `https://www.amazon.de/dp/${product.asin}`;
         const browser = await puppeteer.launch({
+            executablePath: '/usr/bin/google-chrome',
             headless: true, // MUST BE HEADLESS
             args: [
                 '--no-sandbox',
