@@ -1,0 +1,11 @@
+PricingID,channel,timestamp,productAsin,productSKU,zip,SellerName,price,place,lowStock,action
+6912-4ee0-bda8-0c7e8173ce14,Amazon,2025-03-05T18:02:25.927Z,B0B295Z1ZJ,S_PNK.,10115,Soda&Fruit Tafelwasseranlagen,27.95,1,2,null
+7f27-43fb-8e10-5f9e578e152a,Amazon,2025-03-05T18:02:25.927Z,B0B295Z1ZJ,S_PNK.,10115,CCT Trading GbR,26.99,2,2,null
+d479-472f-90ce-87c87d8b4ca3,Amazon,2025-03-05T18:02:25.927Z,B0B295Z1ZJ,S_PNK.,10115,SodaSmart-de,28.39,3,2,null
+3055-492e-abff-3248963358c5,Amazon,2025-03-05T18:02:25.927Z,B0B295Z1ZJ,S_PNK.,10115,Digital-versand-de-Online-GmbH,29.99,4,2,null
+8f80-4ebc-b94b-c2ee3962cf99,Amazon,2025-03-05T18:02:26.213Z,B0B295Z1ZJ,N/A,ALL,N/A,27.7,N/A,N/A,decrease price by 0.25
+1714-41c8-8887-54167f44f1e2,Amazon,2025-03-05T18:08:08.516Z,B0B295Z1ZJ,S_PNK.,10115,Soda&Fruit Tafelwasseranlagen,27.95,1,2,null
+f241-4219-82b1-b36e6e76c25e,Amazon,2025-03-05T18:08:08.516Z,B0B295Z1ZJ,S_PNK.,10115,CCT Trading GbR,26.99,2,NULL,null
+ca47-4a35-9d97-e646542c91c1,Amazon,2025-03-05T18:08:08.516Z,B0B295Z1ZJ,S_PNK.,10115,SodaSmart-de,28.39,3,NULL,null
+026e-446b-9f8b-1d322019b94a,Amazon,2025-03-05T18:08:08.516Z,B0B295Z1ZJ,S_PNK.,10115,Digital-versand-de-Online-GmbH,29.99,4,NULL,null
+b01b-4dc0-ac3d-3c753f745ed2,Amazon,2025-03-05T18:08:08.724Z,B0B295Z1ZJ,N/A,ALL,N/A,27.7,N/A,N/A,decrease price by 0.25

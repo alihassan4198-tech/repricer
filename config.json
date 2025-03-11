@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "asin": "B0B295Z1ZJ",
+            "sku": "S_PNK.",
+            "minimumPrice": 25.00
+        },
+        {
+            "asin": "B09CQHC29Z",
+            "sku": "S_PNK",
+            "minimumPrice": 25.00
+        }
+    ],
+    "zipList": [
+        "10115",
+        "55129"
+    ],
+    "test_mode": true,
+    "priceStep": 0.25,
+    "hasBuyBoxInAtLeastXZips": 2,
+    "hasBuyBoxInAtLeastXZips_comment": "then increase the price",
+    "hasBuyBoxInLessThanYZips": 1,
+    "hasBuyBoxInLessThanYZips_comment": "then decrease the price"
+}
